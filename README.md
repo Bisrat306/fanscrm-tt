@@ -30,8 +30,8 @@ This is a NestJS restful service built using Sequelize ORM and MySql as db.
 4. Install the necessary modules: `npm install`
 5. To Run the application: `npm run dev` App will run on port `3000`
 
-
-
+# Swagger
+- The Swagger documentation can be found in - http://localhost:3000/api-docs
 
 
 ## Authors
